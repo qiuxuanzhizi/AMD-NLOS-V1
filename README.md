@@ -18,9 +18,9 @@
 
 ## Experiments
 
-##### If you want to test our method on synthetic data, you can run the [demo_bowling.m]([AMD-NLOS/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bowling.m)) and [demo_bunny.m]([AMD-NLOS/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bunny.m));
+##### If you want to test our method on synthetic data, you can run the [demo_bowling.m]([AMD-NLOS-V1/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bowling.m)) and [demo_bunny.m]([AMD-NLOS/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bunny.m));
 
-##### If you want to test our method on real-world data, you can run the [demo_real.m]([AMD-NLOS/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_real.m)).
+##### If you want to test our method on real-world data, you can run the [demo_real.m]([AMD-NLOS-V1/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_real.m)).
 
 ##### The hyper-parameters of our method are as following:
 
