@@ -6,7 +6,7 @@
 
 #### Synthetic Data
 
-##### $\textit{bowling}$: $64\times64\times256$, we utilize the data provided by [CurvNLOS]([Duanlab123/CurvNLOS](https://github.com/Duanlab123/CurvNLOS)).
+##### $\textit{bowling}$: $64\times64\times256$, we utilize the data provided by [CurvNLOS](https://github.com/Duanlab123/CurvNLOS).
 
 ##### $bunny$: $64\times64\times300$, we utilize the prepocessed data provided by [ConvNLOS](https://github.com/ByeongjooAhn/conv_nlos).
 
