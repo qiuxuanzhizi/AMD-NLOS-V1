@@ -12,15 +12,15 @@
 
 #### Real Data
 
-##### We utilize the real-world data provided by [FK]([computational-imaging/nlos-fk: Processing code for "Wave-Based Non-Line-of-Sight Imaging using Fast f-k Migration"](https://github.com/computational-imaging/nlos-fk)). Or you can download the preprocessed data [Here]([real-world_data.zip - Google 云端硬盘](https://drive.google.com/file/d/1MW4cnsEbHoAAicW-8j4I4STrpE7-bF2O/view)).
+##### We utilize the real-world data provided by [FK](https://github.com/computational-imaging/nlos-fk). Or you can download the preprocessed data [Here](https://drive.google.com/file/d/1MW4cnsEbHoAAicW-8j4I4STrpE7-bF2O/view).
 
 
 
 ## Experiments
 
-##### If you want to test our method on synthetic data, you can run the [demo_bowling.m]([AMD-NLOS-V1/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bowling.m)) and [demo_bunny.m]([AMD-NLOS/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bunny.m));
+##### If you want to test our method on synthetic data, you can run the [demo_bowling.m](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bowling.m) and [demo_bunny.m](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_bunny.m);
 
-##### If you want to test our method on real-world data, you can run the [demo_real.m]([AMD-NLOS-V1/demo_bowling.m at main · qiuxuanzhizi/AMD-NLOS](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_real.m)).
+##### If you want to test our method on real-world data, you can run the [demo_real.m](https://github.com/qiuxuanzhizi/AMD-NLOS/blob/main/demo_real.m).
 
 ##### The hyper-parameters of our method are as following:
 
