@@ -51,10 +51,10 @@
 
 ##### If you find it useful, please cite our paper.
 
-@inproceedings{zhang2025adaptive,\\
+@inproceedings{zhang2025adaptive,
 title={Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging},\\
-author={Zhang, Qinghua and Liu, Jun and Duan, Yuping},\\
-journal={IEEE Signal Processing Letters},\\
+author={Zhang, Qinghua and Liu, Jun and Duan, Yuping},
+journal={IEEE Signal Processing Letters},
 year={2025}}
 
 
