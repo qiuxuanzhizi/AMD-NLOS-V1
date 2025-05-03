@@ -56,10 +56,10 @@
   title={Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging},
   author={Zhang, Qinghua and Liu, Jun and Duan, Yuping},
   journal={IEEE Signal Processing Letters},
-  publisher={IEEE},
   volume={32},
   pages={1690-1694},
   year={2025},
+  publisher={IEEE}
 }
 
 
