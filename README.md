@@ -1,6 +1,6 @@
 # AMD-NLOS
 
-##### Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging. [IEEE](https://ieeexplore.ieee.org/document/10955200/media#media)
+##### Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging. [IEEE](https://ieeexplore.ieee.org/document/10955200)
 
 
 ## Datasets
